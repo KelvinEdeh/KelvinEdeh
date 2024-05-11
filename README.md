@@ -15,7 +15,7 @@ My data skills have been boosted by my vast experience in sales and product deve
   - Python
 
     ## Contact Me
-   [Email] (kelvinedeh5gmail.com) <br>
+   [Email](kelvinedeh5gmail.com) <br>
    [LinkedIn](linkedin.com/in/kelvinedeh) <br>
   
 <!--
