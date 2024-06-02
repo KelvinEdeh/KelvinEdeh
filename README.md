@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # KELVIN EDEH
-### Data Analyst and Sales Specialist
+### Data Analyst
 
 Welcome to another world of data. With a great interest in entrepreneurship, I channel my  data skills to helping my organization and other organizations make concrete, data-driven sales and product development decisions. I am analytical-minded and problem-centered with a dynamic approach to conceptualization, cleaning, visualization, storytelling, and decision-making. I am well-grounded in SQL, spreadsheets (Excel and Google Sheets), PowerBI, and Python. My greatest career strategy is continuous learning and a growth mindset. I hold data analyst certification from DataCamp and ALX Africa
 
